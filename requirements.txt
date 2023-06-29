@@ -53,3 +53,6 @@ urllib3==2.0.3
 validators==0.20.0
 watchdog==3.0.0
 zipp==3.15.0
+tensorflow>=2.0
+torch>=1.6
+transformers>=4.0
